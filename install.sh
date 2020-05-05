@@ -9,6 +9,16 @@ apt install php -y
 apt install w3m -y
 apt install tor -y
 
+
+mv Aprilfull.sh	
+
+mv extratool.sh
+mv hacker.html	
+mv index.php	
+mv index2.html	
+mv ip.php	
+mv template.php
+
 clear
 
 figlet -f small m a d e   b y
