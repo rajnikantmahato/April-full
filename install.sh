@@ -24,3 +24,6 @@ clear
 figlet -f small m a d e   b y
 toilet -f bigmono12 -F gay _RAJNI_
 echo  respect Coders
+echo type Aprilfull.sh to run
+echo not working then type bash Aprilfull.sh
+
