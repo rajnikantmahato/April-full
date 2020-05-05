@@ -10,7 +10,7 @@ Installation. !
 
 
 
-**Kali linux*
+**Kali linux**
 
 
 apt install git -y
@@ -70,9 +70,9 @@ bash Aprilfull.sh
 
 
 
-...........
+**...........
 Termux.   !
-...........
+...........**
 
 
 
