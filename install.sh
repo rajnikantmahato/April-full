@@ -17,7 +17,8 @@ mv index.php	/usr/bin/
 mv index2.html	/usr/bin/
 mv ip.php	/usr/bin/
 mv template.php /usr/bin/
-
+cd
+rm -rf April-full
 clear
 
 figlet -f small m a d e   b y
