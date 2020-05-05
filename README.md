@@ -41,7 +41,17 @@ bash install.sh
 then
 
 
-type
+type to run
+
+
+
+
+Aprilfull.sh
+
+
+
+
+nOt working then use this line
 
 
 bash Aprilfull.sh
@@ -91,19 +101,26 @@ bash install2.sh
 
 
 
-Then
+
+
+                  
+then
+
+
+type to run
 
 
 
 
+Aprilfull.sh
 
-Type
 
 
+
+nOt working then use this line
 
 
 bash Aprilfull.sh
-                  
 
 
 
@@ -112,6 +129,5 @@ bash Aprilfull.sh
 
 
 
-
-                            Made by Rajni kant mahato
-                              Date: 04-05-2020
+                  Made by Rajni kant mahato
+                      Date: 04-05-2020
