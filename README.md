@@ -20,7 +20,7 @@ apt install git -y
 
 
 
-git clone 
+git clone https://github.com/rajnikantmahato/April-full
 
 
 
@@ -58,7 +58,7 @@ Termux.   !
 apt install git -y
 
 
-git clone 
+git clone https://github.com/rajnikantmahato/April-full
 
 
 
