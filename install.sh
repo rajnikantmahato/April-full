@@ -12,7 +12,6 @@ apt install tor -y
 chmod +x *
 mv Aprilfull.sh	/usr/bin/
 
-mv extratool.sh /usr/bin/
 mv hacker.html	/usr/bin/
 mv index.php	/usr/bin/
 mv index2.html	/usr/bin/
@@ -26,19 +25,3 @@ toilet -f bigmono12 -F gay _RAJNI_
 echo  respect Coders
 echo type Aprilfull.sh to run
 echo not working then type bash Aprilfull.sh
-
-mv extratool.sh
-mv hacker.html	
-mv index.php	
-mv index2.html	
-mv ip.php	
-mv template.php
-
-clear
-
-figlet -f small m a d e   b y
-toilet -f bigmono12 -F gay _RAJNI_
-echo  respect Coders
-echo type Aprilfull.sh to run
-echo not working then type bash Aprilfull.sh
-
