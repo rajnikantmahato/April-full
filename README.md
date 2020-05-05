@@ -30,7 +30,10 @@ git clone https://github.com/rajnikantmahato/April-full
 cd April-full
 
 
+
+
 bash install.sh
+
 
 
 
@@ -38,9 +41,29 @@ bash install.sh
 then
 
 
+type
+
+
+bash Aprilfull.sh
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
 
 
 
@@ -72,4 +95,12 @@ Then
 
 
 
+
+
+Type
+
+
+
+
+bash Aprilfull.sh
 
