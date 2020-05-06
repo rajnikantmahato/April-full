@@ -1,7 +1,7 @@
 # April-full
 it's tool only for fun
 
-Change breakground  to 
+Change Background  to 
 
 
 
