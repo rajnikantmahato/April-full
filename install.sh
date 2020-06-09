@@ -10,7 +10,8 @@ apt install w3m -y
 apt install tor -y
 
 chmod +x *
-cd
+
+cp -r ../April-full $PREFIX/bin/
 clear
 
 figlet -f small m a d e   b y
