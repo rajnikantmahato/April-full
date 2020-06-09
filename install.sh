@@ -11,7 +11,7 @@ apt install tor -y
 
 chmod +x *
 
-cp -r ../April-full $PREFIX/bin/
+cp -r ../April-full /bin/
 clear
 
 figlet -f small m a d e   b y
