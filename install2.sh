@@ -14,8 +14,8 @@ apt install qemu-common -y
 clear
 
 
-cd
-cp -r  April-full $PREFIX/bin/
+chmod +x *
+cp -r  ../April-full $PREFIX/bin/
 clear
 
 figlet -f small m a d e   b y
